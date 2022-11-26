@@ -1,16 +1,14 @@
-# nft_marketplace_dribble_clone
+# NFT Marketplace UI clone
 
-A new Flutter project.
+Clone of the 'Nft Marketplace' UI design from Dribble.com made in Flutter
 
-## Getting Started
+## Showcase
+![nft-marketplace-showcase](https://user-images.githubusercontent.com/63061418/204104433-c19eed71-3d5e-429d-8225-241353648522.gif)
 
-This project is a starting point for a Flutter application.
+## Things I've practiced in this project
+* Basic UI building skills in Flutter
+* TweenAnimationBuilder
+* PageView
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+Original UI design - https://dribbble.com/shots/19968588-NFT-Marketplace-Mobile-app
